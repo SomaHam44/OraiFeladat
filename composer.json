@@ -1,0 +1,10 @@
+{
+    "name": "soltisoma/halloween",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Petrik14S\\SoltiSoma\\Halloween\\": "src/"
+        }
+    },
+    "require": {}
+}
